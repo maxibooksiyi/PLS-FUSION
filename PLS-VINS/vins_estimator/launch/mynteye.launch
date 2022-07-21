@@ -1,0 +1,15 @@
+<launch>
+    
+    <arg name="config_file" default = "/data1/zhoujin/line_catkin_ws/src/PLS-VINS/config/mynteye/mynteye_stereo_imu_config.yaml" />
+    
+    <!-- <node name="rvizvisualisation" pkg="rviz" type="rviz" output="log" args="-d $(find pls_vins)/../config/vins_rviz_config.rviz" />  -->
+
+    <node name="pls_vins_estimator" pkg="pls_vins" type="pls_vins_node" output="screen">
+        <param name="config_file" type="string" value="$(arg config_file)" />
+    </node>
+
+    <node name="pls_loop_fusion" pkg="pls_loop_fusion" type="pls_loop_fusion_node" output="screen">
+        <param name="config_file" type="string" value="$(arg config_file)" />
+    </node>    
+
+</launch> 

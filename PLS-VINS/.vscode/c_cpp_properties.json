@@ -1,0 +1,58 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/zj/imu_ws/devel/include/**",
+        "/home/zj/catkin_ws/devel/include/**",
+        "/home/zj/xiaomi/MYNT-EYE-D-SDK-master/wrappers/ros/devel/include/**",
+        "/home/zj/kalibr_workspace/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_optimizer/aslam_backend/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_optimizer/aslam_backend_expressions/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_optimizer/aslam_backend_python/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_cameras/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_cameras_april/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_cv_backend/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_cv_backend_python/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_cv_error_terms/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_cv_python/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_cv_serialization/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_imgproc/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_nonparametric_estimation/aslam_splines/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_cv/aslam_time/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_nonparametric_estimation/bsplines/include/**",
+        "/home/zj/catkin_ws/src/PL-VINS/camera_model/include/**",
+        "/home/zj/catkin_ws/src/PLS-VINS/camera_models/include/**",
+        "/home/zj/imu_catkin_ws/src/code_utils/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_offline_calibration/ethz_apriltag2/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_incremental_calibration/incremental_calibration/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_incremental_calibration/incremental_calibration_python/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_offline_calibration/kalibr/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/numpy_eigen/include/**",
+        "/home/zj/zj_catkin_ws/src/pose/include/**",
+        "/home/zj/imu_ws/src/receive_imu/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_boost/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_common/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_eigen/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_kinematics/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_logging/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_matrix_archive/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_opencv/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_property_tree/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_python/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_random/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/Schweizer-Messer/sm_timing/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/aslam_optimizer/sparse_block_matrix/include/**",
+        "/home/zj/kalibr_workspace/src/Kalibr/suitesparse/include/**",
+        "/home/zj/catkin_ws/src/zed-ros-interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,36 @@
+{
+    "files.associations": {
+        "charconv": "cpp",
+        "chrono": "cpp",
+        "utility": "cpp",
+        "sstream": "cpp",
+        "xhash": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "xtree": "cpp",
+        "ostream": "cpp",
+        "complex": "cpp",
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    },
+    "python.autoComplete.extraPaths": [
+        "/home/zj/imu_ws/devel/lib/python2.7/dist-packages",
+        "/home/zj/xiaomi/MYNT-EYE-D-SDK-master/wrappers/ros/devel/lib/python2.7/dist-packages",
+        "/home/zj/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/zj/kalibr_workspace/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/zj/imu_ws/devel/lib/python2.7/dist-packages",
+        "/home/zj/xiaomi/MYNT-EYE-D-SDK-master/wrappers/ros/devel/lib/python2.7/dist-packages",
+        "/home/zj/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/zj/kalibr_workspace/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/.."
+}
